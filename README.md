@@ -1,4 +1,4 @@
-# AI Smart Contract Risk Explainer
+# AI Smart Contract Risk Explainer .
 
 AI Smart Contract Risk Explainer is a Python-based smart contract security project. It takes Solidity source code, runs static analysis with Slither, optionally runs Mythril, normalizes the findings, and generates plain-English explanations with impact and remediation guidance.
 
